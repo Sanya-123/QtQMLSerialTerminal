@@ -1,0 +1,12 @@
+<RCC>
+    <qresource prefix="/">
+        <file>images/connect.png</file>
+        <file>images/disconnect.png</file>
+        <file>images/application-exit.png</file>
+        <file>images/settings.png</file>
+        <file>images/clear.png</file>
+        <file>images/word_color_text_editing-512.webp</file>
+        <file>images/Font-color-icon.png</file>
+        <file>images/RGB-512.png</file>
+    </qresource>
+</RCC>
