@@ -1,0 +1,27 @@
+syntax: glob
+*~
+*.autosave
+*.user.*
+*.user
+*.o
+*.a
+*.so
+*.ko
+*.symvers
+*.order
+*.cmd
+*.mod.c
+*.mod
+*.o.d
+./bin
+.\bin
+bin
+*.config
+*.creator
+*.files
+*.includes
+*.exe
+*.lib
+*.dll
+tmp
+
